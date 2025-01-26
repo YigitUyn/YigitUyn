@@ -1,3 +1,4 @@
+![Header Image](github-header-image.jpg) 
 <h1 align="center">Hi 👋, I'm Yigit Uyan</h1>
 <h3 align="center">A passionate Data Analyst from Turkey</h3>
 
