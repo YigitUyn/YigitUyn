@@ -1,9 +1,10 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
-
 ![Header Image](Welcome) 
 
-### Hi there 👋, Hi, My name is Yigit
+<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
+
+### Hi 👋, My name is Yigit
 #### I am Data Specialist
 
 I made this project to explore, analyze, and visualize data in a way that tells a compelling story. 📊
