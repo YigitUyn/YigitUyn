@@ -40,5 +40,3 @@ Feel free to check out the project, share your thoughts, and connect with me! �
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YigitUyn&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YigitUyn&limit=5&theme=dark&combine_all_yearly_contributions=true)
