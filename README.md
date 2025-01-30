@@ -1,21 +1,37 @@
 ![Header Image](Welcome) 
-<h1 align="center">Hi 👋, I'm Yigit Uyan</h1>
-<h3 align="center">A passionate Data Analyst from Turkey</h3>
 
-- 💬 Ask me about **SQL/Phyton/Oracle**
+### Hi there 👋, Hi, My name is Yigit
+#### I am Data Specialist
 
-- 📫 How to reach me **yigit.uyan0793@gmail.com**
+I made this project to explore, analyze, and visualize data in a way that tells a compelling story. 📊
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/7235a8238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7235a8238" height="30" width="40" /></a>
-</p>
+Skills: SQL , MySQL , Python , Power Bi, Microsoft Excel
 
-<h3 align="left">Languages and Tools:English - Turkish </h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+As someone who is continuously learning and growing in the field of **data analytics**, I'm always open to discussions, collaborations, and sharing knowledge.  
+Feel free to check out the project, share your thoughts, and connect with me! 🤝  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yigituyn&show_icons=true&locale=en&layout=compact" alt="yigituyn" /></p>
+- 🔭 I’m currently working on github. 
+- 🌱 I’m currently learning Java 
+- 💬 Ask me about Database 
+- 📫 How to reach me: yigit.uyan0793@gmail.com
+- 🔉 Talk with me with English - Turkish
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigituyn&show_icons=true&locale=en" alt="yigituyn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yigituyn&" alt="yigituyn" /></p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([(https://www.instagram.com/yigituyan/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yigit-uyan-7235a8238), [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YigitUyn) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YigitUyn&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YigitUyn&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YigitUyn&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YigitUyn&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YigitUyn&limit=5&theme=dark&combine_all_yearly_contributions=true)
