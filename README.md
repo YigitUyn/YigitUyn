@@ -1,3 +1,6 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
+
 ![Header Image](Welcome) 
 
 ### Hi there 👋, Hi, My name is Yigit
